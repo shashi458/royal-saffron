@@ -78,11 +78,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Glow & Grace — Beauty Parlour & Salon" },
+      { title: "The Royal Saffron — Beauty Parlour & Salon" },
       {
         name: "description",
         content:
-          "Glow & Grace Beauty Parlour & Salon — hair, makeup, bridal, skin care and nails.",
+          "The Royal Saffron Beauty Parlour & Salon — hair, makeup, bridal, skin care and nails.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
